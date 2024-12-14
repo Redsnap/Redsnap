@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redsnap
-- 👀 I’m interested in... mechanical designing, CAD, python, product designing, and Machnine Learning.
-- 🌱 I’m currently learning... Blender.
+- 👀 I’m interested in... Product Design, Optimization, Coding, and ML.
+- 🌱 I’m always learning and improving.
 - 💞️ I’m looking to collaborate on... CAD designs, product development, and product designing
 - 📫 How to reach me ... prasadadiga03@gmail.com
 
